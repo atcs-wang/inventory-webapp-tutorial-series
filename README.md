@@ -1,5 +1,7 @@
 # Inventory Webapp Tutorial Series
-This is a series of tutorials for building your first full-stack webapp using Node, Express, MySQL, EJS, and Auth0.
+This is a series of tutorials for building your first full-stack web app using Node, Express, MySQL, EJS, and Auth0.
+
+Guides students from prototyping with HTML/CSS to writing a simple Express server with a MySQL database and EJS templating, implementing basic CRUD routes, integrating Auth0 login, and deploying via railway.app.
 
 1. [Part 01: Prototyping our web pages](https://github.com/atcs-wang/inventory-webapp-01-static-prototypes)
 2. [Part 02: Web app server setup and basics](https://github.com/atcs-wang/inventory-webapp-02-app-server-basics)
